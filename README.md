@@ -1,2 +1,2 @@
 # BERT-NLP
-Using a Bidirection-Encoder Recurrent Transformer to do sentiment analysis.
+Using a Bidirectional-Encoder Recurrent Transformer to do sentiment analysis.
